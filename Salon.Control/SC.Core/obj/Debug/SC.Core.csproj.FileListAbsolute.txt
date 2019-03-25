@@ -1,0 +1,6 @@
+C:\Users\Ahmed Mostafa\source\Workspaces\Salon.Control\Salon.Control\SC.Core\bin\Debug\SC.Core.dll
+C:\Users\Ahmed Mostafa\source\Workspaces\Salon.Control\Salon.Control\SC.Core\bin\Debug\SC.Core.pdb
+C:\Users\Ahmed Mostafa\source\Workspaces\Salon.Control\Salon.Control\SC.Core\obj\Debug\SC.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Mostafa\source\Workspaces\Salon.Control\Salon.Control\SC.Core\obj\Debug\SC.Core.dll
+C:\Users\Ahmed Mostafa\source\Workspaces\Salon.Control\Salon.Control\SC.Core\obj\Debug\SC.Core.pdb
+C:\Users\Ahmed Mostafa\source\Workspaces\Salon.Control\Salon.Control\SC.Core\obj\Debug\SC.Core.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Ahmed Mostafa\source\Workspaces\Salon.Control\Salon.Control\SC.Service\bin\Debug\SC.Service.dll
+C:\Users\Ahmed Mostafa\source\Workspaces\Salon.Control\Salon.Control\SC.Service\bin\Debug\SC.Service.pdb
+C:\Users\Ahmed Mostafa\source\Workspaces\Salon.Control\Salon.Control\SC.Service\bin\Debug\SC.Core.dll
+C:\Users\Ahmed Mostafa\source\Workspaces\Salon.Control\Salon.Control\SC.Service\bin\Debug\SC.Core.pdb
+C:\Users\Ahmed Mostafa\source\Workspaces\Salon.Control\Salon.Control\SC.Service\obj\Debug\SC.Service.csprojAssemblyReference.cache
+C:\Users\Ahmed Mostafa\source\Workspaces\Salon.Control\Salon.Control\SC.Service\obj\Debug\SC.Service.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Mostafa\source\Workspaces\Salon.Control\Salon.Control\SC.Service\obj\Debug\SC.Service.csproj.CopyComplete
+C:\Users\Ahmed Mostafa\source\Workspaces\Salon.Control\Salon.Control\SC.Service\obj\Debug\SC.Service.dll
+C:\Users\Ahmed Mostafa\source\Workspaces\Salon.Control\Salon.Control\SC.Service\obj\Debug\SC.Service.pdb
